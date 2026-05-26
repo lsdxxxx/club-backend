@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Backend
+backend/target/
+backend/.mvn/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/*.log
+frontend/.DS_Store
+
+# OS
+.DS_Store
+Thumbs.dbgit
